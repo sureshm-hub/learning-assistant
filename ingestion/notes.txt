@@ -1,0 +1,26 @@
+# Introduction to Machine Learning
+Machine learning is a branch of artificial intelligence that enables systems to learn from data without being explicitly programmed. Supervised learning, unsupervised learning, and reinforcement learning are the three main types.
+
+# Supervised Learning
+Supervised learning involves training a model on labeled data. Examples include regression and classification algorithms such as linear regression, decision trees, and neural networks.
+
+# Unsupervised Learning
+Unsupervised learning involves working with unlabeled data to identify patterns. Examples include clustering algorithms like k-means and hierarchical clustering.
+
+# Reinforcement Learning
+Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment to maximize cumulative rewards. Examples include Q-learning and deep Q-networks (DQN).
+
+# Neural Networks
+A neural network consists of layers of interconnected nodes (neurons) that process input data. The backpropagation algorithm helps in adjusting weights to minimize loss.
+
+# Natural Language Processing (NLP)
+Natural language processing (NLP) is a subfield of AI focused on enabling computers to understand and process human language. It includes tasks like sentiment analysis, machine translation, and text summarization.
+
+# Support Vector Machines (SVM)
+Support vector machines are supervised learning models used for classification and regression. They work by finding the hyperplane that best separates data points in different categories.
+
+# Decision Trees
+A decision tree is a flowchart-like model used for decision-making. It splits data into branches based on conditions, making it useful for classification and regression tasks.
+
+# Gradient Descent
+Gradient descent is an optimization algorithm used to minimize loss functions in machine learning models. It iteratively updates model parameters to find the optimal solution.
